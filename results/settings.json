@@ -1,0 +1,1 @@
+{"L_FIG": 8192, "M_FIG_GB": 8, "LINK_FIG": 50, "MEM_BUDGETS_GB": [6, 8, 12, 16], "N_UNITS": 16, "SPLIT_LAYER": 8, "MODEL_ID": "mistralai/Mistral-7B-v0.1", "SMOKE_TEST": false}
